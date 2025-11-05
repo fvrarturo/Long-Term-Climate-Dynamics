@@ -270,27 +270,6 @@ Contributions are welcome! Potential areas for expansion:
 ### Software Libraries
 - **emcee**: Foreman-Mackey et al. (2013). "emcee: The MCMC Hammer." *PASP*, 125(925), 306.
 - **PyWavelets**: Lee et al. (2019). Wavelet transform library for Python.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👤 Author
-
-**Arturo Favara**  
-Research Intern, Center for Research Economics & Statistics (Paris, FRA)  
-March 2024 - June 2024
-
-## 🙏 Acknowledgments
-
-- Center for Research Economics & Statistics (CREST) for research support
-- IPCC and NGFS for scenario data
-- Open-source scientific Python community
-
-## 📧 Contact
-
-For questions, suggestions, or collaborations, please open an issue on GitHub or contact the author directly.
-
 ---
 
 *"The ice ages are a supreme example of a global environmental crisis. They remind us that Earth's climate is sensitive to small changes in forcing, and that feedbacks can amplify those changes dramatically."* - James Hansen
